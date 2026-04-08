@@ -1,47 +1,47 @@
 {
   "ads_enabled": true,
-  "test_mode": true,
+  "test_mode": false,
   "active_provider": "yandex",
   "interstitial_interval_seconds": 90,
   "app_open_cooldown_seconds": 300,
 
   "yandex_units": {
-    "banner_id": "demo-banner-yandex",
-    "interstitial_id": "demo-interstitial-yandex",
-    "rewarded_id": "demo-rewarded-yandex",
-    "native_id": "demo-native-yandex",
-    "app_open_id": "demo-appopen-yandex",
+    "banner_id": "R-M-19071316-1",
+    "interstitial_id": "R-M-19071316-3",
+    "rewarded_id": "R-M-19071316-4",
+    "native_id": "R-M-19071316-2",
+    "app_open_id": "R-M-19071316-5",
 
     "native_ids": {
-      "home_native": "demo-native-yandex",
-      "details_native": "demo-native-yandex",
-      "search_native": "demo-native-yandex",
-      "search_results_native": "demo-native-yandex",
-      "categories_native": "demo-native-yandex",
-      "categories_games_native": "demo-native-yandex",
-      "listing_native": "demo-native-yandex",
-      "onboarding_native": "demo-native-yandex",
-      "quiz_native": "demo-native-yandex",
-      "exit_native": "demo-native-yandex"
+      "home_native": "R-M-19071316-2",
+      "details_native": "R-M-19071316-2",
+      "search_native": "R-M-19071316-2",
+      "search_results_native": "R-M-19071316-2",
+      "categories_native": "R-M-19071316-2",
+      "categories_games_native": "R-M-19071316-2",
+      "listing_native": "R-M-19071316-2",
+      "onboarding_native": "R-M-19071316-2,
+      "quiz_native": "R-M-19071316-2",
+      "exit_native": "R-M-19071316-2"
     },
 
     "banner_ids": {
-      "home_banner": "demo-banner-yandex",
-      "details_banner": "demo-banner-yandex",
-      "categories_banner": "demo-banner-yandex",
-      "quiz_banner": "demo-banner-yandex"
+      "home_banner": "R-M-19071316-1",
+      "details_banner": "R-M-19071316-1",
+      "categories_banner": "R-M-19071316-1",
+      "quiz_banner": "R-M-19071316-1"
     },
 
     "interstitial_ids": {
-      "install_click_interstitial": "demo-interstitial-yandex",
-      "quiz_complete_interstitial": "demo-interstitial-yandex",
-      "details_interstitial": "demo-interstitial-yandex"
+      "install_click_interstitial": "R-M-19071316-3",
+      "quiz_complete_interstitial": "R-M-19071316-3",
+      "details_interstitial": "R-M-19071316-3"
     },
 
     "rewarded_ids": {
-      "search_rewarded": "demo-rewarded-yandex",
-      "details_retry_rewarded": "demo-rewarded-yandex",
-      "fun_quiz_rewarded": "demo-rewarded-yandex"
+      "search_rewarded": "R-M-19071316-4",
+      "details_retry_rewarded": "R-M-19071316-4",
+      "fun_quiz_rewarded": "R-M-19071316-4"
     },
 
     "home_native_interval": 4,
