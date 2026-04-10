@@ -20,7 +20,7 @@
       "categories_native": "R-M-19071316-2",
       "categories_games_native": "R-M-19071316-2",
       "listing_native": "R-M-19071316-2",
-      "onboarding_native": "R-M-19071316-2,
+     "onboarding_native": "R-M-19071316-2",
       "quiz_native": "R-M-19071316-2",
       "exit_native": "R-M-19071316-2"
     },
