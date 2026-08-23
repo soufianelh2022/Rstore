@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "ads_enabled": true,
-  "test_mode": true,
+  "test_mode": false,
   "active_provider": "yandex",
   "interstitial_interval_seconds": 120,
   "app_open_cooldown_seconds": 300,
@@ -15,35 +15,35 @@
     "native_id": "R-M-18802063-2",
     "app_open_id": "R-M-18802063-5",
     "native_ids": {
-      "home_native": "R-M-18802063-16",
-      "details_native": "R-M-18802063-17",
-      "search_native": "R-M-18802063-18",
-      "search_results_native": "R-M-18802063-19",
-      "categories_native": "R-M-18802063-20",
-      "categories_games_native": "R-M-18802063-21",
-      "listing_native": "R-M-18802063-22",
-      "onboarding_native": "R-M-18802063-22",
-      "quiz_native": "R-M-18802063-23",
-      "exit_native": "R-M-18802063-24"
+      "home_native": "R-M-18802063-2",
+      "details_native": "R-M-18802063-2",
+      "search_native": "R-M-18802063-2",
+      "search_results_native": "R-M-18802063-2",
+      "categories_native": "R-M-18802063-2",
+      "categories_games_native": "R-M-18802063-2",
+      "listing_native": "R-M-18802063-2",
+      "onboarding_native": "R-M-18802063-2",
+      "quiz_native": "R-M-18802063-2",
+      "exit_native": "R-M-18802063-2"
     },
     "banner_ids": {
-      "home_banner": "R-M-18802063-9",
-      "details_banner": "R-M-18802063-10",
-      "categories_banner": "R-M-18802063-11",
-      "quiz_banner": "R-M-18802063-12"
+      "home_banner": "R-M-18802063-1",
+      "details_banner": "R-M-18802063-1",
+      "categories_banner": "R-M-18802063-1",
+      "quiz_banner": "R-M-18802063-1"
     },
     "interstitial_ids": {
-      "install_click_interstitial": "R-M-18802063-6",
-      "quiz_complete_interstitial": "R-M-18802063-7",
-      "details_interstitial": "R-M-18802063-8"
+      "install_click_interstitial": "R-M-18802063-3",
+      "quiz_complete_interstitial": "R-M-18802063-3",
+      "details_interstitial": "R-M-18802063-3"
     },
     "rewarded_ids": {
-      "search_rewarded": "R-M-18802063-13",
-      "details_retry_rewarded": "R-M-18802063-14",
-      "fun_quiz_rewarded": "R-M-18802063-15",
-      "vip_app_rewarded": "",
-      "details_fast_install": "",
-      "quiz_reveal_rewarded": ""
+      "search_rewarded": "R-M-18802063-4",
+      "details_retry_rewarded": "R-M-18802063-4",
+      "fun_quiz_rewarded": "R-M-18802063-4",
+      "vip_app_rewarded": "R-M-18802063-4",
+      "details_fast_install": "R-M-18802063-4",
+      "quiz_reveal_rewarded": "R-M-18802063-4"
     },
     "home_native_interval": 4,
     "install_interstitial_interval": 3,
@@ -53,24 +53,24 @@
       "home_native": true,
       "categories_native": true,
       "categories_games_native": true,
-      "categories_banner": true,
+      "categories_banner": false,
       "search_native": true,
       "search_results_native": true,
-      "search_rewarded": true,
+      "search_rewarded": false,
       "details_interstitial": true,
       "details_native": true,
-      "details_banner": true,
-      "details_retry_rewarded": true,
-      "details_fast_install": true,
-      "vip_app_rewarded": true,
+      "details_banner": false,
+      "details_retry_rewarded": false,
+      "details_fast_install": false,
+      "vip_app_rewarded": false,
       "listing_native": true,
       "install_click_interstitial": true,
-      "onboarding_native": true,
-      "quiz_native": true,
+      "onboarding_native": false,
+      "quiz_native": false,
       "quiz_banner": true,
       "quiz_complete_interstitial": true,
       "fun_quiz_rewarded": true,
-      "quiz_reveal_rewarded": true,
+      "quiz_reveal_rewarded": false,
       "app_open": true,
       "exit_native": true
     }
@@ -88,5 +88,3 @@
     "placements": {}
   }
 }
-
-
